@@ -1,54 +1,30 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/daud-hidayat-ramadhan-98a5251b1/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=DaudHidayatR&style=flat-square&color=blue" alt=""/>
-</div>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
----
+# Daud Hidayat Ramadhan
 
-### 👨‍💻 About Me :
-I am a student majoring in informatics at university islamic of indonesia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I have an interest in Back-End development and devOps.
-
-- :seedling: now i am exploring in DevOps and Cloud.
-
-- :zap: In my free time, I'm working on courses related to Back-End, DevOps, and Cloud.
-
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DaudHidayatR-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daud-hidayat-ramadhan-98a5251b1/)
+**Backend & Security Engineer | DevSecOps · Cloud | Go · K8s · GCP**
 
 ---
 
-### 🛠️ Languages and Tools :
-<div>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel"  alt="Laravel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin"  alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github"  alt="Github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-line-wordmark.svg" title="Composer"  alt="Composer" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+![OpenBao](https://img.shields.io/badge/OpenBao-000000?logo=vault&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![GitHub%20Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DaudHidayatR&theme=transparent)](https://git.io/streak-stats)
+### Projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaudHidayatR&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+| Project | What It Shows |
+|---|---|
+| **[homelab-devsecops](https://github.com/DaudHidayatR/homelab-devsecops)** | Kubernetes lab: kind, Istio, OpenBao, RabbitMQ, Tailscale |
+| **[dynamic-workers-validate-scanning](https://github.com/DaudHidayatR/dynamic-workers-validate-scanning)** | Serverless security scanning orchestrator on Cloudflare Workers |
+| **[Resume](https://github.com/DaudHidayatR/Resume)** | ATS-friendly resume built with LaTeX |
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaudHidayatR&show_icons=true&theme=dark)
+---
+
+[LinkedIn](https://www.linkedin.com/in/daud-hidayat-ramadhan-98a5251b1/) · [Email](mailto:daudhidayatramadhan@gmail.com)
